@@ -1,0 +1,25 @@
+
+
+.online:before {
+  content: ' \25CF';
+  font-size: 20px;
+  color: rgb(39,174,96);
+}
+
+.offline:before {
+  content: ' \25CF';
+  font-size: 20px;
+  color: rgb(192,57,43);
+}
+
+.connected:before {
+  content: ' \25CF';
+  font-size: 20px;
+  color: rgb(39,174,96);
+}
+
+.reconnect:before {
+  content: ' \25CF';
+  font-size: 20px;
+  color: rgb(255, 255, 0);
+}
